@@ -1,0 +1,6 @@
+starting git:
+   git init
+adding some file:
+   git add demo.txt
+commit:
+   git commit -m "initial commit"
